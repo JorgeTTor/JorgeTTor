@@ -29,4 +29,4 @@ I am a Frontend Developer based in Monterrey with two years of experience. I hav
 
 <img src="{BadgeURLHere}" />
 
-<img src="{https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white}" />
+<img src="{https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white}](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)" />
