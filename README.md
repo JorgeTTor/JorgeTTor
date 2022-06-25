@@ -14,4 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he / his
 - ⚡ Fun fact: ...
 -->
-I am a Front-end Developer based in Monterrey with one year of experience. 
+I am a Frontend Developer based in Monterrey with two years of experience. I have experience in doing landing pages, responsive design, working woth the Agile methodology.
+
+
+### :toolbox: Technologies I use: 
+<img src="{BadgeURLHere}" />
+
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+
+<img src="{BadgeURLHere}" />
+
+<img src="{https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white}" />
