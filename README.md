@@ -18,7 +18,7 @@ I am a Frontend Developer based in Monterrey with two years of experience. I hav
 
 
 ### :toolbox: Technologies I use: 
-<img src="{BadgeURLHere}" />
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 
 <img src="{BadgeURLHere}" />
 <img src="{BadgeURLHere}" />
