@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he / his
 - ⚡ Fun fact: ...
 -->
+I am a Front-end Developer based in Monterrey with one year of experience. 
