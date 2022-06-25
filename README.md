@@ -28,5 +28,7 @@ I am a Frontend Developer based in Monterrey with two years of experience. I hav
 
 ![image]({BadgeURLHere})
 
+![image]({BadgeURLHere})
 
-![image](https://user-images.githubusercontent.com/71452849/175755163-fc57e2f3-64f5-4116-8cdc-b7595a354f82.png)
+
+
