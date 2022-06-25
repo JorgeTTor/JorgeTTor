@@ -26,7 +26,7 @@ I am a Frontend Developer based in Monterrey with two years of experience. I hav
 
 ![image]({BadgeURLHere})
 
-![image]({BadgeURLHere})
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ![image]({BadgeURLHere})
 
