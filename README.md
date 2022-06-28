@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he / his
 - ⚡ Fun fact: ...
 -->
-I am a Frontend Developer based in Monterrey with two years of experience. I have experience in doing landing pages, responsive design, working woth the Agile methodology.
+I am a Frontend Developer based in Monterrey with one year of experience. I have experience in doing landing pages, responsive design, working woth the Agile methodology.
 
 
 ### :toolbox: Technologies I use: 
